@@ -1,2 +1,0 @@
-# ET-WEBQUEST
-graduate project
